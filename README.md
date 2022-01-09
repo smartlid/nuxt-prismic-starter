@@ -1,4 +1,4 @@
-# nuxt-starter-prismic
+# nuxt-prismic-starter
 
 ## Build Setup
 
